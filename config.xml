@@ -24,6 +24,8 @@
     <platform name="ios">
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
+        <preference name="phonegap-version" value="cli-6.5.2" />
     </platform>
     <plugin name="cordova-vr-player" />
+
 </widget>
